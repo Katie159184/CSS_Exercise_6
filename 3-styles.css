@@ -1,5 +1,5 @@
-body {
-    background-color: beige;
+html {
+    background-color: rgb(255, 252, 211);
 }
 .header {
     background-image: url(images/3-fruit.jpg);
@@ -12,4 +12,8 @@ body {
     border-top: 4px solid black;
     padding: 20px;
     margin: 0px;
+}
+.wrapper {
+    background-color:  rgb(255, 250, 185);
+    padding: 5 0 5 0;
 }

@@ -1,4 +1,4 @@
-body {
+html {
     background-color: lightblue;
     background-image: url("images/1-big-viburnum.jpg");
     background-attachment: fixed;
@@ -9,4 +9,5 @@ body {
 .wrapper {
     background-color: rgb(156, 239, 156, 50%);
     padding: 30px;
+    
 }
